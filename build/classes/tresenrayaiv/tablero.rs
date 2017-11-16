@@ -1,0 +1,11 @@
+tablero$10
+tablero$9
+tablero$8
+tablero$7
+tablero$6
+tablero$5
+tablero
+tablero$4
+tablero$3
+tablero$2
+tablero$1
